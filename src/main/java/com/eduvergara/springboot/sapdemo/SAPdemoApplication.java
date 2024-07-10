@@ -11,8 +11,4 @@ public class SAPdemoApplication {
 		SpringApplication.run(SAPdemoApplication.class, args);
 	}
 
-
-
-
-
 }
